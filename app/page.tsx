@@ -5,11 +5,11 @@ const Home = () => {
   return (
     <div className="w-full">
       {/* HERO SECTION */}
-      <section className="w-full sm:bg-[url('/images/home/1.jpg')] bg-cover bg-center bg-no-repeat min-h-[600px] flex flex-col sm:flex-row justify-between items-start sm:items-center md:p-0 md:pt-0 relative overflow-hidden">
+      <section className="w-full sm:bg-[url('/home/1.jpg')] bg-cover bg-center bg-no-repeat min-h-[600px] flex flex-col sm:flex-row justify-between items-start sm:items-center md:p-0 md:pt-0 relative overflow-hidden">
         {/*   header width and alignment */}
         <div className="max-w-[1200px] mx-auto w-full flex flex-col sm:flex-row justify-between items-start sm:items-center sm:px-6">
           
-          <div className="block sm:hidden w-full h-[300px] bg-[url('/images/home/1.jpg')] bg-center bg-cover bg-no-repeat">
+          <div className="block sm:hidden w-full h-[300px] bg-[url('/home/1.jpg')] bg-center bg-cover bg-no-repeat">
           </div>
 
           {/* Text Content  Aligned directly below logo column */}

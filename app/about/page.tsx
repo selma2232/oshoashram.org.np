@@ -64,7 +64,7 @@ const About = ()=> {
                     <div className="hidden md:block md:w-1/3 space-y-6">
                         <div className="overflow-hidden">
                             <img
-                                src="/images/about/1.png"
+                                src="/about/1.png"
                                 alt="About SRIYOG 1"
                                 className="w-full h-auto object-cover"
                             />

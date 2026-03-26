@@ -24,7 +24,7 @@ export default function WhyUs () {
                     </div>
 
                     <Image height={600} width={800}
-                    src="/images/home/1.jpg" 
+                    src="/home/1.jpg" 
                     alt="" 
                     className="w-full max-w-sm md:max-w-[450px] rounded-md object-cover"
                     />
@@ -42,7 +42,7 @@ export default function WhyUs () {
                     </div>
 
                     <Image height={600} width={800}
-                    src="/images/home/1.jpg" 
+                    src="/home/1.jpg" 
                     alt="" 
                     className="w-full max-w-sm md:max-w-[450px] rounded-md object-cover"
                     />
@@ -60,7 +60,7 @@ export default function WhyUs () {
                     </div>
 
                     <Image height={600} width={800}
-                    src="/images/home/1.jpg" 
+                    src="/home/1.jpg" 
                     alt="" 
                     className="w-full max-w-sm md:max-w-[450px] rounded-md object-cover"
                     />
@@ -78,7 +78,7 @@ export default function WhyUs () {
                     </div>
 
                     <Image height={600} width={800}
-                    src="/images/home/1.jpg" 
+                    src="/home/1.jpg" 
                     alt="" 
                     className="w-full max-w-sm md:max-w-[450px] rounded-md object-cover"
                     />
