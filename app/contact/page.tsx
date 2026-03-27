@@ -32,19 +32,19 @@ export default function Contact() {
         {
             name: 'Prakash',
             designation: 'Project Manager',
-            img: '/images/contact/1.png',
+            img: '/contact/1.png',
             email: 'prakash@sriyog.com'
         },
         {
             name: 'Bijay',
             designation: 'Internship Coordinator',
-            img: '/images/contact/2.png',
+            img: '/contact/2.png',
             email: 'bijay@sriyog.com'
         },
         {
             name: 'PRACAS',
             designation: 'CTO',
-            img: '/images/contact/1.png',
+            img: '/contact/1.png',
             email: 'pracas@sriyog.com'
         },
     ];

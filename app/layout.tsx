@@ -23,7 +23,7 @@ export const metadata = {
     url: "https://sriyog.com",
     images: [
       {
-        url: "https://sriyog.com/images/og/default.jpg",
+        url: "https://sriyog.com/og/default.jpg",
       },
     ],
     type: "website",
@@ -32,7 +32,7 @@ export const metadata = {
     card: "summary_large_image",
     title: "SRIYOG Consulting | IT Consulting in Kathmandu, Nepal",
     description: "Welcome to SRIYOG Consulting, your partner in IT solutions.",
-    images: ["https://sriyog.com/images/og/default.jpg"],
+    images: ["https://sriyog.com/og/default.jpg"],
   },
 };
 

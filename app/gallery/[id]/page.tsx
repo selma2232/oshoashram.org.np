@@ -27,7 +27,7 @@ const Album = () => {
     const images: ImageItem[] = Array.from({ length: imageCount }, (_, i) => ({
         id: i,
         count: i + 1,
-        img: "/images/gallery/1.jpg"
+        img: "/gallery/1.jpg"
     }));
   return (
         <div>

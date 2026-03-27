@@ -34,7 +34,7 @@ const ServiceInfo = () => {
             <div className="max-w-6xl mx-auto px-4 py-10">
                 {/* Display content here */}
                 <div className='max-w-6xl mx-auto h-full'>
-                   <img src='/images/services/2.jpg' alt=""  className='rounded-xl h-full w-full'/>
+                   <img src='/services/2.jpg' alt=""  className='rounded-xl h-full w-full'/>
                 </div>
                 <h1 className='text-3xl text text-center mt-8'>{service.title}</h1>
                 <p className='py-8 text-[17px]'>{service.Desc}</p>
@@ -45,7 +45,7 @@ const ServiceInfo = () => {
                 <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
                     {relatedServices.map((item, i) => (
                         <div key={i} className=" flex flex-col space-y-2  rounded-lg max-w-[300px] hover:scale-[1.02] transition-all">
-                            <img src='/images/services/2.jpg' className=' h-full  rounded-xl' alt="" />
+                            <img src='/services/2.jpg' className=' h-full  rounded-xl' alt="" />
                             <h3 className="text-xl font-semibold mb-2 pt-1">{item.title}</h3>
                             <p className="card2 text-sm mb-4 line-clamp-3 pt-2">
                                 {item.Desc}

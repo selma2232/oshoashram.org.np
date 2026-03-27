@@ -2,14 +2,14 @@
 import Ribbon from "../../components/Ribbon";
 
 const teamMembers = [
-  { id: 1, name: "Alisha", role: "MERN Stack", image: "/images/team/3.png" },
-  { id: 2, name: "Bitika", role: "React.Js", image: "/images/team/3.png" },
-  { id: 3, name: "Hammoud", role: "MERN Stack", image: "/images/team/1.png" },
-  { id: 4, name: "Khaleed", role: "Full Stack", image: "/images/team/8.png" },
-  { id: 5, name: "Samyog", role: "Full stack", image: "/images/team/7.png" },
-  { id: 6, name: "Sanish", role: "Full stack", image: "/images/team/2.png" },
-  { id: 6, name: "Smriti", role: "React.js", image: "/images/team/3.png" },
-  { id: 7, name: "Sneha", role: "MERN Stack", image: "/images/team/3.png" },
+  { id: 1, name: "Alisha", role: "MERN Stack", image: "/team/3.png" },
+  { id: 2, name: "Bitika", role: "React.Js", image: "/team/3.png" },
+  { id: 3, name: "Hammoud", role: "MERN Stack", image: "/team/1.png" },
+  { id: 4, name: "Khaleed", role: "Full Stack", image: "/team/8.png" },
+  { id: 5, name: "Samyog", role: "Full stack", image: "team/7.png" },
+  { id: 6, name: "Sanish", role: "Full stack", image: "/team/2.png" },
+  { id: 6, name: "Smriti", role: "React.js", image: "/team/3.png" },
+  { id: 7, name: "Sneha", role: "MERN Stack", image: "/team/3.png" },
 ];
 
 const OurTeam = () => {
@@ -25,7 +25,7 @@ const OurTeam = () => {
           <div className="flex flex-col md:flex-row gap-10 items-center md:items-start">
             <div className="flex flex-col items-center">
               <img
-                src="/images/team/1.png"
+                src="/team/1.png"
                 className="w-40 h-40 md:w-56 md:h-56 rounded-full object-cover shadow-lg"
                 alt="Pracas"
               />

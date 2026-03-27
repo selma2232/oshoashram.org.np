@@ -90,7 +90,7 @@ const Message = () => {
                 <Image
                   height={600}
                   width={800}
-                  src="/images/message/1.png"
+                  src="/message/1.png"
                   alt="CTO"
                   className="w-auto md:w-full max-h-[400px] md:h-full object-cover"
                 />

@@ -19,7 +19,7 @@ export default function Document() {
         <meta property="og:type" content="website" />
         <meta property="og:title" content="SRIYOG Consulting | IT Consulting in Kathmandu, Nepal" />
         <meta property="og:description" content="Welcome to SRIYOG Consulting, your partner in IT solutions." />
-        <meta property="og:image" content="https://sriyog.com/images/og/default.jpg" />
+        <meta property="og:image" content="https://sriyog.com/og/default.jpg" />
 
         {/* Twitter */}
         <meta name="twitter:card" content="summary_large_image" />
@@ -27,7 +27,7 @@ export default function Document() {
         <meta property="twitter:url" content="https://sriyog.com" />
         <meta name="twitter:title" content="SRIYOG Consulting | IT Consulting in Kathmandu, Nepal" />
         <meta name="twitter:description" content="Welcome to SRIYOG Consulting, your partner in IT solutions." />
-        <meta name="twitter:image" content="https://sriyog.com/images/og/default.jpg" />
+        <meta name="twitter:image" content="https://sriyog.com/og/default.jpg" />
       </Head>
       <body>
         {/* Google Tag Manager (noscript) */}

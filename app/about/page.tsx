@@ -16,7 +16,7 @@ const About = ()=> {
                      {/* Image on mobile - inserted here for better reading flow */}
                         <div className="md:hidden overflow-hidden px-5 sm:px-0">
                             <Image
-                              src="/images/about/1.png"
+                              src="/about/1.png"
                               alt="Logo"
                               width={800}        // any number, not the final size
                               height={600}       // any number

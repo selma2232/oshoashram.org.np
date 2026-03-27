@@ -24,7 +24,7 @@ const Payment = () => {
             <Image
               width={600}
               height={800}
-              src="/images/payment/image.webp"
+              src="/payment/image.webp"
               alt="Sriyog Consulting Logo"
               className="w-60 sm:w-56 mb-5 mx-auto lg:mx-0"
             />
@@ -60,14 +60,14 @@ const Payment = () => {
           {/* ===== Right: QR Code Section ===== */}
           <div className="card flex flex-col justify-center items-center border  rounded-3xl w-full max-w-sm mx-auto shadow-sm">
             {/* <img
-              src="/images/payment/image.webp"
+              src="/payment/image.webp"
               alt="Sriyog Consulting Logo"
               className="w-48 sm:w-60 mb-4 object-contain"
             /> */}
            <Image
               width={600}
               height={800}
-              src="/images/payment/image2.webp"
+              src="/payment/image2.webp"
               alt="Payment QR"
               className="w-full h-full rounded-3xl object-contain "
             />

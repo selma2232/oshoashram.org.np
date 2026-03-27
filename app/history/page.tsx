@@ -25,7 +25,7 @@ export default function History() {
 
                     <div className="mt-6 rounded-lg overflow-hidden shadow-md">
                         <Image height={600} width={800}
-                            src="/images/history/2.jpg"
+                            src="/history/2.jpg"
                             alt="History Beginning"
                             className="w-full h-full object-cover"
                         />
@@ -48,7 +48,7 @@ export default function History() {
                         {/* Card 1 */}
                         <div className="card p-6 shadow-sm rounded-xl hover:shadow-md transition ">
                             <Image height={600} width={800}
-                                src="/images/history/1.png"  // Male placeholder
+                                src="/history/1.png"  // Male placeholder
                                 alt="Male Placeholder"
                                 className="w-40 h-40 mx-auto rounded-full object-cover mb-4"
                             />
@@ -70,7 +70,7 @@ export default function History() {
                         {/* Card 2 */}
                         <div className="card p-6 shadow-sm rounded-xl hover:shadow-md transition h-full">
                             <Image height={600} width={800}
-                                src="/images/history/2.png"  // Female placeholder
+                                src="/history/2.png"  // Female placeholder
                                 alt="Female Placeholder"
                                 className="w-40 h-40 mx-auto rounded-full object-cover mb-4"
                             />
